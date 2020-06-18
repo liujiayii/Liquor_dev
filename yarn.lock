@@ -2,10 +2,17 @@
 # yarn lockfile v1
 
 
-"@ant-design/colors@^3.1.0", "@ant-design/colors@^3.2.1":
+"@ant-design/colors@^3.1.0":
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/@ant-design/colors/-/colors-3.2.1.tgz#ad86cbf2d1a0039d01586aa73a7ea8a7ce0455a2"
   integrity sha512-ibJybOcR1+h2IEr0Yxx4y/Wcz8obEtKvl2EYvxh8ugMkYniGSItpLKGzKNyyqzOaum5jb6fVCyH1aR9VkdpFRA==
+  dependencies:
+    tinycolor2 "^1.4.1"
+
+"@ant-design/colors@^4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@ant-design/colors/-/colors-4.0.1.tgz#6edab85c6d1ba51accaed4ae64fa934dd5ebb498"
+  integrity sha512-7+kmbxCHw0l7JAKCxtUdaR7WxdeGX5i51EAds1eYfSPHi5f+RbIl45tglnCnjPlrFY5o0sekda6BrTDphjajUQ==
   dependencies:
     tinycolor2 "^1.4.1"
 
