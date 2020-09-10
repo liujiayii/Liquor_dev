@@ -83,7 +83,7 @@
     "jest-puppeteer": "^4.3.0",
     "lint-staged": "^9.2.5",
     "mockjs": "^1.0.1-beta3",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "prettier": "^1.18.2",
     "pro-download": "1.0.1",
     "slash2": "^2.0.0",
