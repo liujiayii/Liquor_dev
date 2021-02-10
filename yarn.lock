@@ -2,12 +2,19 @@
 # yarn lockfile v1
 
 
-"@ant-design/colors@^3.1.0", "@ant-design/colors@^3.2.1":
+"@ant-design/colors@^3.1.0":
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/@ant-design/colors/-/colors-3.2.1.tgz#ad86cbf2d1a0039d01586aa73a7ea8a7ce0455a2"
   integrity sha512-ibJybOcR1+h2IEr0Yxx4y/Wcz8obEtKvl2EYvxh8ugMkYniGSItpLKGzKNyyqzOaum5jb6fVCyH1aR9VkdpFRA==
   dependencies:
     tinycolor2 "^1.4.1"
+
+"@ant-design/colors@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@ant-design/colors/-/colors-6.0.0.tgz#9b9366257cffcc47db42b9d0203bb592c13c0298"
+  integrity sha512-qAZRvPzfdWHtfameEGP2Qvuf838NhergR35o+EuVyB5XvSA98xod5r4utvi4TJ3ywmevm290g9nsCG5MryrdWQ==
+  dependencies:
+    "@ctrl/tinycolor" "^3.4.0"
 
 "@ant-design/create-react-context@^0.2.4":
   version "0.2.4"
@@ -1269,6 +1276,11 @@
   dependencies:
     exec-sh "^0.3.2"
     minimist "^1.2.0"
+
+"@ctrl/tinycolor@^3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@ctrl/tinycolor/-/tinycolor-3.4.0.tgz#c3c5ae543c897caa9c2a68630bed355be5f9990f"
+  integrity sha512-JZButFdZ1+/xAfpguQHoabIXkcqRRKpMrWKBkpEZZyxfY9C1DpADFB8PEqGSTeFr135SaTRfKqGKx5xSCLI7ZQ==
 
 "@hapi/address@2.x.x":
   version "2.0.0"
